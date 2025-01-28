@@ -13,7 +13,7 @@ library(tidyverse)
 ```
 Name: Suresh Bhavsar
 UT EID: sb65245
-GitHub repo:
+GitHub repo: https://github.com/Surbeast/HW02
 
 # Problem 1: Beauty, or not, in the classroom
 
